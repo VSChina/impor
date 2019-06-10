@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sneezry/impor.git"
+    "url": "git+https://github.com/VSChina/impor.git"
   },
   "keywords": [
     "import",
@@ -19,9 +19,9 @@
   "author": "Zhe Li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sneezry/impor/issues"
+    "url": "https://github.com/VSChina/impor/issues"
   },
-  "homepage": "https://github.com/Sneezry/impor#readme",
+  "homepage": "https://github.com/VSChina/impor#readme",
   "devDependencies": {
     "@types/node": "^11.10.4",
     "gts": "^0.9.0",
